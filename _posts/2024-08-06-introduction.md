@@ -5,11 +5,11 @@ categories: intro
 excerpt: 
 ---
 
-Hi! I plan on building this out to keep all of my thoughts organized.
+A place to organize all of my thoughts
 
-Use Cases:
+I plan on using this platform for the following:
 
-- engineering banter
+- software engineering banter
 - career navigation discussions
 - personal anecdotes
 - philosophy
