@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-...to be completed
+...to be completed soon
